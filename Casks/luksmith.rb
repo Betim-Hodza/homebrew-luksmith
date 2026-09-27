@@ -1,6 +1,6 @@
 cask "luksmith" do
-  version "1.0.3"
-  sha256 "612ff6212deec0d6d52a0948e7317e86c975bb5dc7eaa4bbf16d90a6239077a2"
+  version "1.0.4"
+  sha256 "7822e05efe3901df07e973996773ea322d6a17824c10652ec28a69d0258a6917"
 
   url "https://github.com/Betim-Hodza/luksmith-releases/releases/download/v#{version}/Luksmith-#{version}.pkg"
   name "Luksmith"
