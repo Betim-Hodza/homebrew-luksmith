@@ -31,6 +31,8 @@ jobs:
       - name: Set up git
         id: git_setup
         uses: Homebrew/actions/git-user-config@f8d4222eb633e65c2a0157383cf80861fc7fae7f # 2026.09.07.1
+        with:
+          username: betizzel
 
       - name: Bump formulae
         env:
